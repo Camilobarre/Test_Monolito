@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  Checkout-Databse:
+  Checkout-Database:
     runs-on: ubuntu-latest
 
     steps:
