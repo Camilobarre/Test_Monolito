@@ -3,7 +3,7 @@ name : "Despliegue de la aplicación"
 on:
   push:
     branches:
-      - main
+      - release
   pull_request:
     branches:
       - main
